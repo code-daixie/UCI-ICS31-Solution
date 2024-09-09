@@ -1,2 +1,3 @@
 # UCI-ICS31-Solution
-the solution
+
+## 微信：scs_ryan
